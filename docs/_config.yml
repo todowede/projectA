@@ -1,10 +1,10 @@
 ## EDIT AT LEAST THESE ACCORDING TO YOUR PROJECT:
-repository: City-of-Helsinki/ml_project_template
-topnav_title: ml_project_template
-site_title: ml_project_template
-company_name: City of Helsinki
+repository: todowede/projectA
+topnav_title: projectA
+site_title: projectA
+company_name: STodowede
 description: Template for reproducible and explainable ML projects.
-baseurl: /ml_project_template/
+baseurl: /projectA/
 ##
 
 output: web

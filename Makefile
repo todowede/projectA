@@ -2,11 +2,11 @@
 SHELL := /bin/bash
 SRC = $(wildcard ./*.ipynb)
 
-all: ml_project_template docs
+all: projectA docs
 
-ml_project_template: $(SRC) ## replace ml_project_template with your repo name
+projectA: $(SRC) ## replace ml_project_template with your repo name
 	nbdev_build_lib
-	touch ml_project_template
+	touch projectA
 
 sync:
 	nbdev_update_lib

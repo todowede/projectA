@@ -11,8 +11,8 @@ modules = ["data.py",
            "workflow.py",
            "api.py"]
 
-doc_url = "https://City-of-Helsinki.github.io/ml_project_template/"
+doc_url = "https://todowede.github.io/projectA/"
 
-git_url = "https://github.com/City-of-Helsinki/ml_project_template/tree/master/"
+git_url = "https://github.com/todowede/projectA/tree/master/"
 
 def custom_doc_links(name): return None
